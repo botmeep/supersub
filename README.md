@@ -1,5 +1,7 @@
 # SuperSub  
 
+## SuperSub is an [Obsidian](https://obsidian.md) plugin that allows the user to easily add superscripts and subscripts.
+
 ## What does it do?
 This plugin allows the user to easily add superscripts (exponents) and subscripts to their notes.  
 
